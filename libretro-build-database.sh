@@ -181,7 +181,7 @@ build_libretro_databases() {
 	build_libretro_database "ScummVM" "rom.crc"
 	build_libretro_database "Lutro" "rom.name"
 	build_libretro_database "Nintendo - Super Nintendo Entertainment System" "rom.crc"
-	build_libretro_database "Sony - PlayStation" "rom.serial"
+	build_libretro_database "Sony - PlayStation" "rom.crc"
 	build_libretro_database "Atari - Jaguar" "rom.crc"
 	build_libretro_database "Nintendo - Nintendo 64" "rom.crc"
 	build_libretro_database "Nintendo - Nintendo 64DD" "rom.crc"
